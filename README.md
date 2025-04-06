@@ -26,9 +26,7 @@ RAG_Chatbot/
 │   │   ├── App.js       # Main application component (layout, theme)
 │   │   ├── Chatbot.js   # Chat interface logic and display
 │   │   ├── App.css      # Main styling
-│   │   └── index.js     # Entry point for React app
-│   ├── package.json     # Frontend dependencies (React, etc.) and scripts
-│   └── .gitignore       # Ignores node_modules, build files, etc.
+│   │   └── index.js     # Entry point for React app 
 ├── .gitignore           # Root ignore file (Python venv, models, etc.)
 └── README.md            # This file
 ```
