@@ -1,0 +1,6 @@
+requests
+Flask
+Flask-Cors
+langchain
+langchain-core
+langchain-ollama
