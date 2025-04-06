@@ -14,16 +14,11 @@ backend/venv/
 backend/__pycache__/
 *.pyc
 
-
 # Node.js ignores
 node_modules
 frontend/node_modules/
 frontend/build/
 package-lock.json
-
-# MCP Server ignores
-C:/Users/varda/Documents/Cline/MCP/weather-server/node_modules/
-C:/Users/varda/Documents/Cline/MCP/weather-server/build/
 
 # Model and database files
 backend/models/
